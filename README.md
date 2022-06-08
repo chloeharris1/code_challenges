@@ -5,7 +5,9 @@
 
 My code challenge solutions from Codecademy's Front End Engineer career path. 
 
-A variety of code challenges focused on Arrays, Loops and Factory Functions.
+A variety of code challenges focused on:
+* Arrays, Loops and Factory Functions
+* Classes
 
 ## Usage 
 
